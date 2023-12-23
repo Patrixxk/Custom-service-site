@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --background-color: rgb(6, 11, 25);
+  --border-color: rgb(255, 255, 255, 0.2);
+}
+
+body {
+  background-color: var(--background-color);
+  /* height: 100vh;*/
+  margin: 0;
+}
